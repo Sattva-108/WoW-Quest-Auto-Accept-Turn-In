@@ -6,8 +6,8 @@ Automatically turn-in and accept quests.
 Been using it for years.
 
 ## Install
-- **[Download](https://github.com/Sattva-108/unitscan-cataclysm-backport-4.3.4/releases/download/v1.0.0/unitscan.rar)** latest version in releases named "unitscan.rar"
-- Extract rar file
+- **[Download](https://github.com/Sattva-108/WoW-Quest-Auto-Accept-Turn-In/releases/tag/v1.0.0)** latest version in releases named "idQuestAutomation.rar"
+- Extract RAR file
 - Move sub folder named "idQuestAutomation" to Interface/AddOns
 - Enjoy!
 
