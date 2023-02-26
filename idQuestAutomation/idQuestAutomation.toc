@@ -1,0 +1,7 @@
+## Interface: 40300
+## X-Curse-Packaged-Version: 1.0-1
+## X-Curse-Project-Name: idQuestAutomation
+## X-Curse-Project-ID: idquestautomation
+## X-Curse-Repository-ID: wow/idquestautomation/mainline
+Addon.lua
+

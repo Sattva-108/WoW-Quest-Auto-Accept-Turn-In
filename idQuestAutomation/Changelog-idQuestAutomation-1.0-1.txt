@@ -1,0 +1,12 @@
+tag 1.0-1
+2e12b1992efa62ec0193dfa77b63a14ca566785d
+root <root@cfrepos1.curseforge.net>
+2010-04-10 11:20:53 +0000
+
+Tagging as 1.0-1
+
+
+--------------------
+
+Tom Wieland:
+	- bumping toc for 3.3
