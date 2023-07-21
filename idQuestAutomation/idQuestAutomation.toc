@@ -1,4 +1,4 @@
-## Interface: 40300
+## Interface: 20400
 ## X-Curse-Packaged-Version: 1.0-1
 ## X-Curse-Project-Name: idQuestAutomation
 ## X-Curse-Project-ID: idquestautomation
