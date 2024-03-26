@@ -1,5 +1,8 @@
 # IdQuestAutomation
 
+## Support
+- Support my development on **[Boosty](https://boosty.to/sattva108)**
+
 ## About
 Automatically turn-in and accept quests. 
 **Tested and working** good on 3.3.5 and 4.3.4 wow clients. 
